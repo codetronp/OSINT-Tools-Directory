@@ -109,7 +109,7 @@ Mi directorio está diseñado para ser **ligero, útil y fácil de navegar**:
 * **Riesgo:** 🔴 ALTO RIESGO
 * **Estado:** Activa
 * **Tipo:** Código Abierto (Open Source)
-* **Categorías/Etiquetas:** GitHub, Datos Sensibles, ReconocimientoD
+* **Categorías/Etiquetas:** GitHub, Datos Sensibles, Reconocimiento
 * **Última Actualización:** 06/04/2025
 
 ---
